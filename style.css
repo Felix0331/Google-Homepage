@@ -1,0 +1,12 @@
+.align_center{
+    text-align: center;
+}
+ 
+#search_input{
+    width: auto;
+    padding: 5px 10px;
+}
+
+body{
+    background-color:rgb(23, 59, 70);
+}

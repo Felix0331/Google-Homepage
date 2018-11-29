@@ -16,3 +16,38 @@
 body{
     background-color:rgb(23, 59, 70);
 }
+
+.topbar{
+    position: absolute;
+
+}
+
+.toplefttxt{
+    color: white;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.toprighttxt{
+    color: white;
+    position: relative;
+    left: 1100px;
+    bottom: 16px;
+    cursor: pointer;
+
+}
+#toprightspacing{
+    margin-left: 15px;
+    
+}
+
+#google_logo{
+    cursor: pointer;
+}
+
+.buttons{
+    position: relative;
+    top: 20px;
+    padding: 5px 10px;
+    border-radius: 3px;
+}

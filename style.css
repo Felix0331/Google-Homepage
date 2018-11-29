@@ -1,14 +1,15 @@
 .align_center{
     text-align: center;
     position: relative;
-    top: 60px;
+    top: 200px;
 }
 
 #search_input{
-    width: auto;
+    width: 35%;
+    height: 45px;
     padding: 5px 10px;
     border: 1px solid #ccc;
-    border-radius: 1px;
+    border-radius: 3px;
     box-sizing: border-box;
 }
 

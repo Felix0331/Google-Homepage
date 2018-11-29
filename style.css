@@ -48,7 +48,7 @@ body{
     cursor: pointer;
 }
 
-.buttons{
+.search_buttons{
     position: relative;
     top: 20px;
     padding: 5px 10px;
@@ -61,4 +61,8 @@ body{
     height: 40px;
     position: relative;
     top: 400px;
+}
+
+.bottom_buttons{
+    margin-left: 15px;
 }
